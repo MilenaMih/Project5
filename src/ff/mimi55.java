@@ -6,5 +6,7 @@ public class mimi55 {
 
             System.out.println("hey there");
             System.out.println("hey you");
+            System.out.println("project");
         }
     }
+
